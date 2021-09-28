@@ -1,0 +1,3 @@
+variable "storageaccountname" {
+    type = string
+}
